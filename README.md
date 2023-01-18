@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ash021980
 - 👀 I’m interested in Data Analysis and Python programming 
-- 🌱 I’m currently learning Python, SQL, and HTML
+- 🌱 I’m currently learning Python, SQL, and Tableau
 - 💞️ I’m looking to collaborate on business data analyst projects
 - 📫 How to reach me malcombbrown@gmail.com
 
